@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aljohnaraneta@gmail.com**
 
-- ⚡ Fun fact **I participated 2 Hackathon events and 1 UI/UX Design Events**
+- ⚡ Fun fact **I participated 2 Hackathon events (CIB.O Cebu Interschool Hackathon 2k24 and 10th UC CCS ICT Congress Intercampus Hackathon) and 1 UI/UX Design event (UC-B Days 2024 UI/UX Competition)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
