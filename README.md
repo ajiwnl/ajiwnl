@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aj1wnl" target="blank"><img src="https://img.shields.io/twitter/follow/aj1wnl?logo=twitter&style=for-the-badge" alt="aj1wnl" /></a> </p>
 
-- 🔭 I’m currently working on [Help-Konnect Web Application](https://github.com/soliken1/HelpKonnect-Mobile)
+- 🔭 I’m currently working on [Help-Konnect Web Application](https://help-konnect.vercel.app)
 
 - 🔭 I’m currently working on [Help-Konnect Mobile Application](https://github.com/soliken1/HelpKonnect-WebRepo)
 
