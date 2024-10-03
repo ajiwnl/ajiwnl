@@ -1,17 +1,19 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Alvin John Araneta</h1>
 <h3 align="center">I love bugs and errors</h3>
-- 🔭 I’m currently working on [Help-Konnect Web Application](https://helpkonnect.vercel.app)
+- 👨‍💻 I’m currently working on [Help-Konnect Web Application](https://helpkonnect.vercel.app)
 
-- 🔭 I’m currently working on [Help-Konnect Mobile Application](https://github.com/soliken1/HelpKonnect-WebRepo)
+- 👨‍💻 I’m currently working on [Help-Konnect Mobile Application](https://github.com/soliken1/HelpKonnect-Android)
 
-- 🔭 I’m currently working on [Alliance Jumpstart Expense Tracker](https://github.com/ajiwnl/Group1_ExpenseTracker_repo)
+- 👨‍💻 I’m currently working on [Alliance Jumpstart Expense Tracker](https://github.com/ajiwnl/Group1_ExpenseTracker_repo)
 
 - 🌱 I’m currently learning **Machine Learning and stuffs**
 
 - 💬 Ask me about **C#, .NET, JAVA, and MERN**
 
 - 📫 How to reach me **aljohnaraneta@gmail.com**
+
+- 🎮 LEts play and have fun if you have time: [arya](https://steamcommunity.com/id/whyiamhated)
 
 
 ## 🌐 Socials:
