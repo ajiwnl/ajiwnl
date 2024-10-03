@@ -1,6 +1,7 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Alvin John Araneta</h1>
 <h3 align="center">I love bugs and errors</h3>
+
+##  💫 Info About Me:
 - 👨‍💻 I’m currently working on [Help-Konnect Web Application](https://helpkonnect.vercel.app)
 
 - 👨‍💻 I’m currently working on [Help-Konnect Mobile Application](https://github.com/soliken1/HelpKonnect-Android)
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **aljohnaraneta@gmail.com**
 
-- 🎮 LEts play and have fun if you have time: [arya](https://steamcommunity.com/id/whyiamhated)
+- 🎮 Lets play and have fun if you have time **[arya](https://steamcommunity.com/id/whyiamhated)**
 
 
 ## 🌐 Socials:
