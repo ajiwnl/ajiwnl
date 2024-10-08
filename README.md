@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Alvin John Araneta</h1>
 <h3 align="center">I love bugs and errors</h3>
 <div align="center">
-    <img src="https://i.pinimg.com/originals/72/77/fa/7277fa1cf5e5704018188321e4c8fd0e.gif">
+    <img src="https://i.imgur.com/rTZkf4K.gif">
 </div>
 
 ##  💫 Info About Me:
