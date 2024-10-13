@@ -46,7 +46,7 @@ Developed a comprehensive expense tracking system with a focus on financial plan
 - Created a web-based application for education that utilizes AI for Generating Quizzes and Lessons based on students learning capacity using MERN Stack, showcasing proficiency in backend development.
 
 ### University of Cebu ICT Congress Intercampus Hackathon
-**June 2024**  
+**April 2024**  
 - Created an online web-based job search website using C# ASP .NET with SQL Server Management 
 Studio, showcasing proficiency in backend development and project leadership.
 
