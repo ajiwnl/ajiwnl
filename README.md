@@ -12,12 +12,12 @@ I am a 4th Year BSIT Student from University of Cebu-Banilad Campust that focuse
 
 ## Projects
 ### Help-Konnect Web Application (Ongoing)
-[Live Project](https://helpkonnect.vercel.app) | [GitHub Repository](https://github.com/soliken1/HelpKonnect-Android)  
-A platform designed to connect individuals seeking help with a network of resources and professionals. I worked on both the frontend and backend, utilizing the MERN stack for seamless interactions between the web application and backend APIs.
+[Live Project](https://helpkonnect.vercel.app) | [GitHub Repository](https://github.com/soliken1/HelpKonnect-WebRepo)
+A platform designed to connect individuals seeking help with a network of resources and professionals, utilizing the NextJS, Firebase, React, TailwindCSS, JavaScript tech stack for seamless interactions between the web application and backend APIs.
 
 ### Help-Konnect Mobile Application (Ongoing)  
 [GitHub Repository](https://github.com/soliken1/HelpKonnect-Android)  
-The mobile extension of Help-Konnect, built using Kotlin and integrated with Firebase for real-time data syncing and authentication. This app focuses on creating a smooth user experience while providing essential resources.
+The mobile extension of Help-Konnect, built using Java and integrated with Firebase for real-time data syncing and authentication. This app focuses on creating a smooth user experience while providing essential resources.
 
 ### Alliance Jumpstart Expense Tracker (Ongoing)  
 [GitHub Repository](https://github.com/ajiwnl/Group1_ExpenseTracker_repo)  
