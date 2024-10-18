@@ -10,15 +10,44 @@ I am a 4th Year BSIT Student from University of Cebu-Banilad Campust that focuse
 ## Projects
 ### Help-Konnect Web Application (Ongoing)
 [Live Project](https://helpkonnect.vercel.app) | [GitHub Repository](https://github.com/soliken1/HelpKonnect-WebRepo)
+
 A platform designed to connect individuals seeking help with a network of resources and professionals, utilizing the NextJS, Firebase, React, TailwindCSS, JavaScript tech stack for seamless interactions between the web application and backend APIs.
 
 ### Help-Konnect Mobile Application (Ongoing)  
 [GitHub Repository](https://github.com/soliken1/HelpKonnect-Android)  
+
 The mobile extension of Help-Konnect, built using Java and integrated with Firebase for real-time data syncing and authentication. This app focuses on creating a smooth user experience while providing essential resources.
 
 ### Alliance Jumpstart Expense Tracker (Ongoing)  
-[GitHub Repository](https://github.com/ajiwnl/Group1_ExpenseTracker_repo)  
+[GitHub Repository](https://github.com/Laucs/ASIJumpStart2024-Group1)
+
 Developed a comprehensive expense tracking system with a focus on financial planning for small teams. The project includes data visualization using Chart.js and provides real-time insights into personal and team expenditures.
+
+### Trabahub
+[Live Project](http://trabahub.somee.com/) | [GitHub Repository](https://github.com/ajiwnl/Trabahub)
+
+Developed a comprehensive a web-based online reservation system called Trabahub using C# ASP .NET with SQL Server 
+Management Studio, also utilizing Payment Gateway APIs specifically Stripes and PayMongo, showcasing proficiency in backend development and project leadership.  
+
+### Woodables
+[GitHub Repository](https://github.com/ajiwnl/Woodables)
+
+Developed an android-based application for INTPROG Final Requirment that allows Woodworkers and Generals users for finding woodworking jobs using JAVA together with Firebase.
+
+### EMSys
+[Live Project](http://emsys.somee.com/) | [GitHub Repository](https://github.com/ajiwnl/EMSys)
+
+Developed a web-based enrollment system using C# ASP .NET with SQL Server Management Studio, demonstrating ongoing commitment to project development as a fulfillment project for ELDNET.
+
+### ISCP - Enrollment System (Desktop Application)
+[GitHub Repository](https://github.com/ajiwnl/EMSys)
+
+Independently designed and developed a desktop-based enrollment system using C# .NET Framework with Microsoft SQL Server backend, highlighting self-reliance and full-stack development skills as a fulfillment project for APPSDEV.
+
+### ISys (Java based - Desktop Application)
+[GitHub Repository](https://github.com/ajiwnl/ISys)
+
+Independently designed, developed, and led a team for developing a Java-based inventory management system as fullfillment for SHS Academic Year 2019-2021. 
 
 ## Technical Skills
 **Languages & Frameworks**  
