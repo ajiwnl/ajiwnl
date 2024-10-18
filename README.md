@@ -27,7 +27,12 @@ Developed a comprehensive expense tracking system with a focus on financial plan
 [Live Project](http://trabahub.somee.com/) | [GitHub Repository](https://github.com/ajiwnl/Trabahub)
 
 Developed a comprehensive a web-based online reservation system called Trabahub using C# ASP .NET with SQL Server 
-Management Studio, also utilizing Payment Gateway APIs specifically Stripes and PayMongo, showcasing proficiency in backend development and project leadership.  
+Management Studio, also utilizing Payment Gateway APIs specifically Stripes and PayMongo, showcasing proficiency in backend development and project leadership.
+
+### PSITS-UCB Web-Based POS System
+[GitHub Repository-Backend](https://github.com/PSITS-UCBanilad/PSITS-WebBackend) | [GitHub Repository-Frontend](https://github.com/PSITS-UCBanilad/PSITS-WebFrontend)
+
+Contributed in building the PSITS-UCB POS System and Website for College of Computer Studies Students and Officers using MERN Stack, showcasing proficiency in backend development.
 
 ### Woodables
 [GitHub Repository](https://github.com/ajiwnl/Woodables)
