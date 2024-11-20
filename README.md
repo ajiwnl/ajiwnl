@@ -18,6 +18,16 @@ A platform designed to connect individuals seeking help with a network of resour
 
 The mobile extension of Help-Konnect, built using Java and integrated with Firebase for real-time data syncing and authentication. This app focuses on creating a smooth user experience while providing essential resources.
 
+### Help-Konnect Mobile Emotion Classifier
+[GitHub Repository](https://github.com/ajiwnl/Help-Konnect_emotion-classifier)  
+
+An Emotion Classifier API utilizing BERT-based hugging face model specifically the `bert-base-go-emotion` model from Hugging Face's Transformers library to classify text into 28 different emotion categories. It provides an endpoint to predict the emotions conveyed in a given text input.
+
+### Help-Konnect Recommender
+[GitHub Repository](https://github.com/soliken1/HelpKonnect-Recommender)  
+
+Help-Konnect own model that is being finetuned with our own dataset for users to handle response properly also the base model used is gpt-4o-mini-2024-07-18 which is being hosted on vercel to access its endpoint.
+
 ### Alliance Jumpstart Expense Tracker (Ongoing)  
 [GitHub Repository](https://github.com/Laucs/ASIJumpStart2024-Group1)
 
