@@ -5,7 +5,7 @@
 
 
 ## Summary
-I am a 4th Year BSIT Student from University of Cebu-Banilad Campust that focuses on web and mobile development with experience in backend and frontend technologies.
+A college undergraduate student of Information Technology student passionate about programming and solving problems. I am proficient in multiple programming languages, a quick learner with a great academic background, and I enjoy a challenge, particularly in programming. I am eager to employ my coding expertise and commitment to real-world projects and to contribute to a dynamic team.
 
 ## Projects
 ### Help-Konnect Web Application (Ongoing)
@@ -27,6 +27,11 @@ An Emotion Classifier API utilizing BERT-based hugging face model specifically t
 [GitHub Repository](https://github.com/soliken1/HelpKonnect-Recommender)  
 
 Help-Konnect own model that is being finetuned with our own dataset for users to handle response properly also the base model used is gpt-4o-mini-2024-07-18 which is being hosted on vercel to access its endpoint.
+
+### MiManuTMS (Ongoing)  
+[GitHub Repository](https://github.com/ajiwnl/MiManuTMS)
+
+Created a web-based training management system application for MineBeaMitsumi Cebu for an employer to employee training modules, utilizing Firebase Authentication for auth management and Firestore as a database.
 
 ### Alliance Jumpstart Expense Tracker (Ongoing)  
 [GitHub Repository](https://github.com/Laucs/ASIJumpStart2024-Group1)
@@ -71,11 +76,17 @@ Independently designed, developed, and led a team for developing a Java-based in
 - **JavaScript, Node.js, React, MERN Stack** – Full-stack web development with a focus on efficient and interactive user experiences.  
 - **Python** – Machine learning and AI model development, particularly in natural language processing and data analysis.
 
-**Tools & Platforms**  
+**Tools & Platforms**
+- **SQL Databases** - Proficient in designing, querying, and managing relational databases using SQL Server Management Studio (SSMS), SQLite, and MySQL.
 - **Firebase** – Authentication, Firestore, and Realtime Database integration for mobile and web.  
 - **Cloud Platforms** – AWS, Google Cloud, and Azure for scalable deployment.  
 - **Version Control** – Git, GitHub for source control and team collaboration.  
 - **DevOps** – Docker, Nginx, and CI/CD pipelines.
+- **Computer Systems Servicing** – Hardware and Software troubleshooting, repair, and maintenance
+- **Proficieny in Microsoft Applications** - Word, Excel, PowerPoint, Publisher, etc.
+- **Proficiency in Video Editing** - particularly in utilizing Adobe Creative Suite – Adobe Premiere and Filmora
+- **Photo Editing Adobe Creative Suite** – particularly in utilizing Adobe Photoshop and Canva
+
 
 ## Languages and Tools
 <p align="left">
