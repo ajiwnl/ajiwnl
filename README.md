@@ -7,7 +7,11 @@
 ## Summary
 A college undergraduate student of Information Technology student passionate about programming and solving problems. I am proficient in multiple programming languages, a quick learner with a great academic background, and I enjoy a challenge, particularly in programming. I am eager to employ my coding expertise and commitment to real-world projects and to contribute to a dynamic team.
 
-## Projects
+## Experiences
+
+### Freelance Computer Building, Repairs, and Troubleshooting
+Provide freelance services for building, repairing, and troubleshooting desktop computers, showcasing technical expertise in hardware servicing
+
 ### Help-Konnect Web Application (Ongoing)
 [Live Project](https://helpkonnect.vercel.app) | [GitHub Repository](https://github.com/soliken1/HelpKonnect-WebRepo)
 
