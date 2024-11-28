@@ -139,33 +139,25 @@ Independently designed, developed, and led a team for developing a Java-based in
 ## Experiences
 ### Freelance Computer Building, Repairs, and Troubleshooting
 **2019 – Present**  
-- Provide freelance services for building, repairing, and troubleshooting desktop computers, showcasing technical expertise in hardware servicing.
+Description: Provide freelance services for building, repairing, and troubleshooting desktop computers, showcasing technical expertise in hardware servicing.
 
 ### Alliance Jumpstart Program 2024 -Expense Tracker (C# ASP .NET)
-**August 2024 - Present**
-
-Role: Tech Lead and Backend Developer
+**August 2024 - Present** | Role: Tech Lead and Backend Developer
 
 Description: Created a web-based application designed to help users effectively monitor and manage their personal finances by recording income, tracking expenses, and providing detailed reports to enhance budgeting and financial decision-making using C# ASP .NET with SQL Server Management Studio, showcasing proficiency in backend development.
 
 ### CIB.O Cebu Interschool Hackathon (MERN Stack)
-**June 2024**
-
-Role: Backend Developer
+**June 2024** | Role: Backend Developer
 
 Desciption: Created a web-based application for education that utilizes AI for Generating Quizzes and Lessons based on students learning capacity using MERN Stack, showcasing proficiency in backend development.
 
 ### University of Cebu ICT Congress Intercampus Hackathon
-**April 2024**  
-
-Role: Project Manager
+**April 2024** | Role: Project Manager
 
 Description: Created an online web-based job search website using C# ASP .NET with SQL Server Management Studio, showcasing proficiency in backend development and project leadership.
 
 ### Web-Based Online Reservation System (C# ASP .NET)
-**June 2024**  
-
-Role: Backend Developer
+**June 2024** | Role: Backend Developer
 
 Description: Created a web-based online reservation system called Trabahub using C# ASP .NET with SQL Server Management Studio, also utilizing Payment Gateway APIs specifically Stripes and PayMongo 
 
