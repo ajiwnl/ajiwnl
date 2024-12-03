@@ -9,12 +9,12 @@ A college undergraduate student of Information Technology student passionate abo
 
 ## Project Implementations
 
-### Help-Konnect Web Application (Ongoing)
+### Help-Konnect Web Application
 [Live Project](https://helpkonnect.vercel.app) | [GitHub Repository](https://github.com/soliken1/HelpKonnect-WebRepo)
 
 A platform designed to connect individuals seeking help with a network of resources and professionals, utilizing the NextJS, Firebase, React, TailwindCSS, JavaScript tech stack for seamless interactions between the web application and backend APIs.
 
-### Help-Konnect Mobile Application (Ongoing)  
+### Help-Konnect Mobile Application  
 [GitHub Repository](https://github.com/ajiwnl/HelpKonnect-Android)  
 
 The mobile extension of Help-Konnect, built using Java and integrated with Firebase for real-time data syncing and authentication. This app focuses on creating a smooth user experience while providing essential resources.
