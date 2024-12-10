@@ -147,7 +147,7 @@ Independently designed, developed, and led a team for developing a Java-based in
 **Description:** Created a web-based training management system application for MineBeaMitsumi Cebu for an employer to employee training modules utilizing C# ASP .net with Firebase Authentication for auth management and Firebase Firestore for database, showcasing proficiency in backend development.
 
 ### Alliance Jumpstart Program 2024 -Expense Tracker
-**August 2024 - Present** | **Role: Tech Lead and Backend Developer**
+**August 2024 - December 2024** | **Role: Tech Lead and Backend Developer**
 
 **Description:** Created a web-based application designed to help users effectively monitor and manage their personal finances by recording income, tracking expenses, and providing detailed reports to enhance budgeting and financial decision-making using C# ASP .NET with SQL Server Management Studio, showcasing proficiency in backend development.
 
