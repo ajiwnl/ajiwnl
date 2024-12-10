@@ -9,6 +9,16 @@ A college undergraduate student of Information Technology student passionate abo
 
 ## Project Implementations
 
+### MiManuTMS (Ongoing)  
+[GitHub Repository](https://github.com/ajiwnl/MiManuTMS)
+
+Created a web-based training management system application for MineBeaMitsumi Cebu for an employer to employee training modules, utilizing Firebase Authentication for auth management and Firestore as a database.
+
+### Alliance Jumpstart Expense Tracker 
+[GitHub Repository](https://github.com/Laucs/ASIJumpStart2024-Group1)
+
+Developed a comprehensive expense tracking system with a focus on financial planning for small teams. The project includes data visualization using Chart.js and provides real-time insights into personal and team expenditures.
+
 ### Help-Konnect Web Application
 [Live Project](https://helpkonnect.vercel.app) | [GitHub Repository](https://github.com/soliken1/HelpKonnect-WebRepo)
 
@@ -28,16 +38,6 @@ An Emotion Classifier API utilizing BERT-based hugging face model specifically t
 [GitHub Repository](https://github.com/soliken1/HelpKonnect-Recommender)  
 
 Help-Konnect own model that is being finetuned with our own dataset for users to handle response properly also the base model used is gpt-4o-mini-2024-07-18 which is being hosted on vercel to access its endpoint.
-
-### MiManuTMS (Ongoing)  
-[GitHub Repository](https://github.com/ajiwnl/MiManuTMS)
-
-Created a web-based training management system application for MineBeaMitsumi Cebu for an employer to employee training modules, utilizing Firebase Authentication for auth management and Firestore as a database.
-
-### Alliance Jumpstart Expense Tracker (Ongoing)  
-[GitHub Repository](https://github.com/Laucs/ASIJumpStart2024-Group1)
-
-Developed a comprehensive expense tracking system with a focus on financial planning for small teams. The project includes data visualization using Chart.js and provides real-time insights into personal and team expenditures.
 
 ### Trabahub
 [Live Project](http://trabahub.somee.com/) | [GitHub Repository](https://github.com/ajiwnl/Trabahub)
