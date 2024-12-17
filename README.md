@@ -7,68 +7,89 @@
 ## Summary
 A college undergraduate student of Information Technology student passionate about programming and solving problems. I am proficient in multiple programming languages, a quick learner with a great academic background, and I enjoy a challenge, particularly in programming. I am eager to employ my coding expertise and commitment to real-world projects and to contribute to a dynamic team.
 
-## Project Implementations
+## Experiences
 
-### MiManuTMS (Ongoing)  
+### Freelance Computer Building, Repairs, and Troubleshooting
+**2019 – Present**  
+
+Provide freelance services for building, repairing, and troubleshooting desktop computers, showcasing technical expertise in hardware servicing.
+
+### MiManuTMS
 [GitHub Repository](https://github.com/ajiwnl/MiManuTMS)
+
+**October 2024 - Present** | **Role: Backend Developer**
 
 Created a web-based training management system application for MineBeaMitsumi Cebu for an employer to employee training modules, utilizing Firebase Authentication for auth management and Firestore as a database.
 
 ### Alliance Jumpstart Expense Tracker 
 [GitHub Repository](https://github.com/Laucs/ASIJumpStart2024-Group1)
 
+**August 2024 - December 2024** | **Role: Backend Developer**
+
 Developed a comprehensive expense tracking system with a focus on financial planning for small teams. The project includes data visualization using Chart.js and provides real-time insights into personal and team expenditures.
 
 ### Help-Konnect Web Application
 [Live Project](https://helpkonnect.vercel.app) | [GitHub Repository](https://github.com/soliken1/HelpKonnect-WebRepo)
 
+**August 2024 - December 2024** | **Role: Backend Developer**
+
 A platform designed to connect individuals seeking help with a network of resources and professionals, utilizing the NextJS, Firebase, React, TailwindCSS, JavaScript tech stack for seamless interactions between the web application and backend APIs.
 
 ### Help-Konnect Mobile Application  
-[GitHub Repository](https://github.com/ajiwnl/HelpKonnect-Android)  
+[GitHub Repository](https://github.com/ajiwnl/HelpKonnect-Android)
+
+**August 2024 - December 2024** | **Role: Backend Developer**  
 
 The mobile extension of Help-Konnect, built using Java and integrated with Firebase for real-time data syncing and authentication. This app focuses on creating a smooth user experience while providing essential resources.
 
 ### Help-Konnect Mobile Emotion Classifier
-[GitHub Repository](https://github.com/ajiwnl/Help-Konnect_emotion-classifier)  
+[GitHub Repository](https://github.com/ajiwnl/Help-Konnect_emotion-classifier)
+
+**August 2024 - December 2024** | **Role: Backend Developer**  
 
 An Emotion Classifier API utilizing BERT-based hugging face model specifically the `bert-base-go-emotion` model from Hugging Face's Transformers library to classify text into 28 different emotion categories. It provides an endpoint to predict the emotions conveyed in a given text input.
 
 ### Help-Konnect Recommender
-[GitHub Repository](https://github.com/soliken1/HelpKonnect-Recommender)  
+[GitHub Repository](https://github.com/soliken1/HelpKonnect-Recommender)
+
+**August 2024 - December 2024** | **Role: Backend Developer**  
 
 Help-Konnect own model that is being finetuned with our own dataset for users to handle response properly also the base model used is gpt-4o-mini-2024-07-18 which is being hosted on vercel to access its endpoint.
 
-### Trabahub
-[Live Project](http://trabahub.somee.com/) | [GitHub Repository](https://github.com/ajiwnl/Trabahub)
+### CIB.O Cebu Interschool Hackathon (MERN Stack)
 
-Developed a comprehensive a web-based online reservation system called Trabahub using C# ASP .NET with SQL Server 
-Management Studio, also utilizing Payment Gateway APIs specifically Stripes and PayMongo, showcasing proficiency in backend development and project leadership.
+**June 2024** | **Role: Backend Developer**
+
+Created a web-based application for education that utilizes AI for Generating Quizzes and Lessons based on students learning capacity using MERN Stack, showcasing proficiency in backend development.
 
 ### PSITS-UCB Web-Based POS System
 [GitHub Repository-Backend](https://github.com/PSITS-UCBanilad/PSITS-WebBackend) | [GitHub Repository-Frontend](https://github.com/PSITS-UCBanilad/PSITS-WebFrontend)
 
+**May 2024 - June 2024** | **Role: Backend Developer**
+
 Contributed in building the PSITS-UCB POS System and Website for College of Computer Studies Students and Officers using MERN Stack, showcasing proficiency in backend development.
 
-### Woodables
-[GitHub Repository](https://github.com/ajiwnl/Woodables)
+### University of Cebu ICT Congress Intercampus Hackathon
 
-Developed an android-based application for INTPROG Final Requirment that allows Woodworkers and Generals users for finding woodworking jobs using JAVA together with Firebase.
+**April 2024** | **Role: Project Manager**
 
-### EMSys
-[Live Project](http://emsys.somee.com/) | [GitHub Repository](https://github.com/ajiwnl/EMSys)
+Created an online web-based job search website using C# ASP .NET with SQL Server Management Studio, showcasing proficiency in project leadership.
 
-Developed a web-based enrollment system using C# ASP .NET with SQL Server Management Studio, demonstrating ongoing commitment to project development as a fulfillment project for ELDNET.
+### University of Cebu-Banilad CCS Days 2024
 
-### ISCP - Enrollment System (Desktop Application)
-[GitHub Repository](https://github.com/ajiwnl/EMSys)
+**March 2024** | **Role: UI/UX Designer**
 
-Independently designed and developed a desktop-based enrollment system using C# .NET Framework with Microsoft SQL Server backend, highlighting self-reliance and full-stack development skills as a fulfillment project for APPSDEV.
+Participated in a UI/UX Design Competition in the University of Cebu-Banilad CCS Days 2024 event held in March. Designed a user-friendly interface that secured 2nd place in the competition.
 
-### ISys (Java based - Desktop Application)
-[GitHub Repository](https://github.com/ajiwnl/ISys)
+### Trabahub
+[Live Project](http://trabahub.somee.com/) | [GitHub Repository](https://github.com/ajiwnl/Trabahub)
 
-Independently designed, developed, and led a team for developing a Java-based inventory management system as fullfillment for SHS Academic Year 2019-2021. 
+**January 2024 - June 2024** | **Role: Backend Developer**
+
+Developed a comprehensive a web-based online reservation system called Trabahub using C# ASP .NET with SQL Server 
+Management Studio, also utilizing Payment Gateway APIs specifically Stripes and PayMongo, showcasing proficiency in backend development and project leadership.
+
+
 
 ## Technical Skills
 **Languages & Frameworks**  
@@ -135,36 +156,6 @@ Independently designed, developed, and led a team for developing a Java-based in
 [![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 </p>
-
-## Experiences
-### Freelance Computer Building, Repairs, and Troubleshooting
-**2019 – Present**  
-**Description:** Provide freelance services for building, repairing, and troubleshooting desktop computers, showcasing technical expertise in hardware servicing.
-
-### MiManuTMS
-**October 2024 - Present** | **Role: Backend Developer**
-
-**Description:** Created a web-based training management system application for MineBeaMitsumi Cebu for an employer to employee training modules utilizing C# ASP .net with Firebase Authentication for auth management and Firebase Firestore for database, showcasing proficiency in backend development.
-
-### Alliance Jumpstart Program 2024 -Expense Tracker
-**August 2024 - December 2024** | **Role: Tech Lead and Backend Developer**
-
-**Description:** Created a web-based application designed to help users effectively monitor and manage their personal finances by recording income, tracking expenses, and providing detailed reports to enhance budgeting and financial decision-making using C# ASP .NET with SQL Server Management Studio, showcasing proficiency in backend development.
-
-### CIB.O Cebu Interschool Hackathon (MERN Stack)
-**June 2024** | **Role: Backend Developer**
-
-**Desciption:** Created a web-based application for education that utilizes AI for Generating Quizzes and Lessons based on students learning capacity using MERN Stack, showcasing proficiency in backend development.
-
-### University of Cebu ICT Congress Intercampus Hackathon
-**April 2024** | **Role: Project Manager**
-
-**Description:** Created an online web-based job search website using C# ASP .NET with SQL Server Management Studio, showcasing proficiency in backend development and project leadership.
-
-### Web-Based Online Reservation System (C# ASP .NET)
-**June 2024** | **Role: Backend Developer**
-
-**Description:** Created a web-based online reservation system called Trabahub using C# ASP .NET with SQL Server Management Studio, also utilizing Payment Gateway APIs specifically Stripes and PayMongo, showcasing proficiency in backend development. 
 
 ## Education
 **Bachelor of Science in Information Technology**  
