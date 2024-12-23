@@ -182,11 +182,6 @@ Twins, and Wellness in the Digital** –Cebu Institute of Technology – College
   
 - **Internet of Things in the Age of Disruption – Privacy Issue** – C3P-ITC Webinar 4.0/CNAP Core Council of the Philippines , 2020
 
-## Interests
-When I’m not coding, I enjoy exploring the latest trends in technologies, playing video games, and riding motorcycle.  
-
-[![Steam Profile](https://img.shields.io/badge/Steam-Profile-%23000000.svg)](https://steamcommunity.com/id/whyiamhated)
-
 ### GitHub Stats & Achievements  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajiwnl&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)  
 
