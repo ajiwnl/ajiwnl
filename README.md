@@ -75,7 +75,7 @@ Contributed in building the PSITS-UCB POS System and Website for College of Comp
 
 Created an online web-based job search website using C# ASP .NET with SQL Server Management Studio, showcasing proficiency in project leadership.
 
-### University of Cebu-Banilad CCS Days 2024
+### University of Cebu-Banilad CCS Days 2024 UI/UX Design Contest
 
 **March 2024** | **Role: UI/UX Designer**
 
