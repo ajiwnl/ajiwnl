@@ -129,7 +129,9 @@ University of Cebu - Lapu-lapu and Mandaue Campus, 2019
 - **11th Topcit Philippines – A performance-evaluation-centered test to assess the basic competencies of IT specialists and software developers working the IT industry**
 
 - **ICT Congress 2024 – A Decade of Transformation Through Collaboration, 
-Camaraderie and Synergies** – University of Cebu – College of Computer Studies, 2024
+Camaraderie and Synergies**
+
+   University of Cebu – College of Computer Studies, 2024
 
 - **ICT Student Congress Cebu 2024 – Navigating the Digital Frontier: Trust, 
 Twins, and Wellness in the Digital**
