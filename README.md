@@ -126,16 +126,28 @@ University of Cebu - Banilad Campus, 2021
 University of Cebu - Lapu-lapu and Mandaue Campus, 2019
 
 ## Certifications and Seminars Attended
+- **11th Topcit Philippines – A performance-evaluation-centered test to assess the basic competencies of IT specialists and software developers working the IT industry**
+
 - **ICT Congress 2024 – A Decade of Transformation Through Collaboration, 
 Camaraderie and Synergies** – University of Cebu – College of Computer Studies, 2024
 
 - **ICT Student Congress Cebu 2024 – Navigating the Digital Frontier: Trust, 
-Twins, and Wellness in the Digital** –Cebu Institute of Technology – College of Computer Studies, 2024
+Twins, and Wellness in the Digital**
 
-- **ICT Congress 2023 – Leading the Charge in Disruptive Innovation** – University of Cebu – College of Computer Studies, 2023
+   Cebu Institute of Technology – College of Computer Studies, 2024
+
+- **ICT Congress 2023 – Leading the Charge in Disruptive Innovation**
+
+   University of Cebu – College of Computer Studies, 2023
   
-- **ICT Congress 2022 – Embracing AI Synergies, Shaping today’s Gen Zs** – University of Cebu – College of Computer Studies, 2022
+- **ICT Congress 2022 – Embracing AI Synergies, Shaping today’s Gen Zs**
+
+  University of Cebu – College of Computer Studies, 2022
   
-- **Implementing DevOps Practice in Today’s IT Landscape** – C3P-ITC Webinar 4.0/CNAP Core Council of the Philippines , 2021
+- **Implementing DevOps Practice in Today’s IT Landscape**
+
+  C3P-ITC Webinar 4.0/CNAP Core Council of the Philippines , 2021
   
-- **Internet of Things in the Age of Disruption – Privacy Issue** – C3P-ITC Webinar 4.0/CNAP Core Council of the Philippines , 2020
+- **Internet of Things in the Age of Disruption – Privacy Issue**
+
+  C3P-ITC Webinar 4.0/CNAP Core Council of the Philippines , 2020
