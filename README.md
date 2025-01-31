@@ -9,6 +9,11 @@ A college undergraduate student of Information Technology student passionate abo
 
 ## Experiences
 
+### QA Egineer Intern @ Talleco JobTarget PH
+**2025 – Present**  
+
+Ensures software works correctly by testing it for bugs, usability issues, and performance problems before it’s released. They create test plans, run tests, and work with developers to fix any issues.
+
 ### Freelance Computer Building, Repairs, and Troubleshooting
 **2019 – Present**  
 
