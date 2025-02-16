@@ -12,6 +12,8 @@ A college undergraduate student of Information Technology student passionate abo
 ### QA Egineer Intern @ Talleco JobTarget PH
 **January 2025 - Present**
 
+Executed test cases, identified and documented bugs, and collaborated with developers to improve software quality, ensuring optimal system performance and reliability.
+
 ### Mandaue City Veterinary's Office Info App
 [Live Project](https://cvoapp.vercel.app/) | [GitHub Repository](https://github.com/soliken1/Mimanu-React)
 
