@@ -10,21 +10,26 @@ A college undergraduate student of Information Technology student passionate abo
 ## Experiences
 
 ### QA Egineer Intern @ Talleco JobTarget PH
-**2025 – Present**  
+**January 2025 - Present**
 
-Ensures software works correctly by testing it for bugs, usability issues, and performance problems before it’s released. They create test plans, run tests, and work with developers to fix any issues.
+### Mandaue City Veterinary's Office Info App
+[Live Project](https://cvoapp.vercel.app/) | [GitHub Repository](https://github.com/soliken1/Mimanu-React)
 
-### Freelance Computer Building, Repairs, and Troubleshooting
-**2019 – Present**  
+**January 2025 - Present** | **Role: Backend Developer**
 
-Provide freelance services for building, repairing, and troubleshooting desktop computers, showcasing technical expertise in hardware servicing.
+Created a web and mobile application built with React.js + Vite for the web, integrated with Android Studio WebView, and powered by Firebase Authentication and Firestore to streamline veterinary services and enhance accessibility..
 
 ### MiManuTMS
-[GitHub Repository](https://github.com/ajiwnl/MiManuTMS)
+[Live Project](https://mimanu-react.vercel.app/) | [GitHub Repository](https://github.com/soliken1/Mimanu-React)
 
-**October 2024 - Present** | **Role: Backend Developer**
+**January 2025 - Present** | **Role: Backend Developer**
 
-Created a web-based training management system application for MineBeaMitsumi Cebu for an employer to employee training modules, utilizing Firebase Authentication for auth management and Firestore as a database.
+Created a web-based training management system application built with React.js + Vite for MineBeaMitsumi Cebu for an employer to employee training modules, utilizing Firebase Authentication for auth management and Firestore as a database.
+
+### Freelance Computer Building, Repairs, and Troubleshooting
+**2019 - Present**  
+
+Provide freelance services for building, repairing, and troubleshooting desktop computers, showcasing technical expertise in hardware servicing.
 
 ### Alliance Jumpstart Expense Tracker 
 [GitHub Repository](https://github.com/Laucs/ASIJumpStart2024-Group1)
