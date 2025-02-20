@@ -15,11 +15,11 @@ A college undergraduate student of Information Technology student passionate abo
 Executed test cases, identified and documented bugs, and collaborated with developers to improve software quality, ensuring optimal system performance and reliability.
 
 ### Mandaue City Veterinary's Office Info App
-[Live Project](https://cvoapp.vercel.app/) | [GitHub Repository](https://github.com/soliken1/Mimanu-React)
+[Live Project](https://cvoapp.vercel.app/) | [GitHub Repository](https://github.com/ajiwnl/CVO-Android)
 
 **January 2025 - Present** | **Role: Backend Developer**
 
-Created a web and mobile application built with React.js + Vite for the web, integrated with Android Studio WebView, and powered by Firebase Authentication and Firestore to streamline veterinary services and enhance accessibility..
+Created a web and mobile application built with React.js + Vite for the web, integrated with Android Studio WebView, and powered by Firebase Authentication and Firestore to streamline veterinary services and enhance accessibility.
 
 ### MiManuTMS
 [Live Project](https://mimanu-react.vercel.app/) | [GitHub Repository](https://github.com/soliken1/Mimanu-React)
