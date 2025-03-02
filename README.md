@@ -28,7 +28,7 @@ Created a web-based training management system application built with React.js +
 
 ### CVO Pet Care
 [Live Project](https://cvoapp.vercel.app/) | [Web Repository](https://github.com/soliken1/CVO-App) | [Android Repository](https://github.com/ajiwnl/CVO-Android) | [Chatbot FAQ Repository](https://github.com/ajiwnl/CVO-Chatbot)
-|
+
 **January 2025 - February 2025** | **Role: Backend Developer**
 
 Created a web and mobile application for Mandaue City Veterinary's Office built with React.js + Vite for the web, integrated with Android Studio WebView, and powered by Firebase Authentication and Firestore to streamline veterinary services, enhance accessibility, and information dissemination. Developed an FAQ chatbot to provide automated responses based on Mandaue City Veterinary’s Office FAQs and Republic Act 9482 (Anti-Rabies Act of 2007).
