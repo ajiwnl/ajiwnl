@@ -34,7 +34,7 @@ Created a web-based training management system application built with React.js +
 Created a web and mobile application for Mandaue City Veterinary's Office built with React.js + Vite for the web, integrated with Android Studio WebView, and powered by Firebase Authentication and Firestore to streamline veterinary services, enhance accessibility, and information dissemination. Developed an FAQ chatbot to provide automated responses based on Mandaue City Veterinary’s Office FAQs and Republic Act 9482 (Anti-Rabies Act of 2007).
 
 ### Alliance Jumpstart Expense Tracker 
-[GitHub Repository](https://github.com/Laucs/ASIJumpStart2024-Group1)
+[GitHub Repository](https://github.com/Laucs/ASIJumpStart2024-Group1) | [Automation Test Repository](https://github.com/ajiwnl/ASIJumpStart2024-Group1_RbtSelenium-AutomationTesting)
 
 **August 2024 - December 2024** | **Role: Backend Developer**
 
