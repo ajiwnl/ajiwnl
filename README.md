@@ -9,6 +9,11 @@ A college undergraduate student of Information Technology student passionate abo
 
 ## Experiences
 
+### Freelance Computer Building, Repairs, and Troubleshooting
+**2019 - Present**  
+
+Provide freelance services for building, repairing, and troubleshooting desktop computers, showcasing technical expertise in hardware servicing.
+
 ### QA Egineer Intern @ Talleco.com Inc.
 **January 2025 - Present**
 
@@ -27,11 +32,6 @@ Created a web-based training management system application built with React.js +
 **January 2025 - February 2025** | **Role: Backend Developer**
 
 Created a web and mobile application for Mandaue City Veterinary's Office built with React.js + Vite for the web, integrated with Android Studio WebView, and powered by Firebase Authentication and Firestore to streamline veterinary services, enhance accessibility, and information dissemination. Developed an FAQ chatbot to provide automated responses based on Mandaue City Veterinary’s Office FAQs and Republic Act 9482 (Anti-Rabies Act of 2007).
-
-### Freelance Computer Building, Repairs, and Troubleshooting
-**2019 - Present**  
-
-Provide freelance services for building, repairing, and troubleshooting desktop computers, showcasing technical expertise in hardware servicing.
 
 ### Alliance Jumpstart Expense Tracker 
 [GitHub Repository](https://github.com/Laucs/ASIJumpStart2024-Group1)
