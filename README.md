@@ -9,24 +9,24 @@ A college undergraduate student of Information Technology student passionate abo
 
 ## Experiences
 
-### QA Egineer Intern @ Talleco JobTarget PH
+### QA Egineer Intern @ Talleco.com Inc.
 **January 2025 - Present**
 
-Executed test cases, identified and documented bugs, and collaborated with developers to improve software quality, ensuring optimal system performance and reliability.
-
-### Mandaue City Veterinary's Office Info App
-[Live Project](https://cvoapp.vercel.app/) | [GitHub Repository](https://github.com/ajiwnl/CVO-Android)
-
-**January 2025 - Present** | **Role: Backend Developer**
-
-Created a web and mobile application built with React.js + Vite for the web, integrated with Android Studio WebView, and powered by Firebase Authentication and Firestore to streamline veterinary services and enhance accessibility.
+A student intern, who is responsible for ensuring software quality and system reliability through manual testing. Execute test cases, perform functional, regression, and exploratory testing, and meticulously document and report bugs using tracking tools. Working closely with developers and product team, helping refine system performance by verifying bug fixes and ensuring that software updates meet quality standards before deployment. Additionally, contributed to the creation of test plans and test case documentation, gaining hands-on experience in software testing methodologies, defect tracking, and quality assurance best practices.
 
 ### MiManuTMS
 [Live Project](https://mimanu-react.vercel.app/) | [GitHub Repository](https://github.com/soliken1/Mimanu-React)
 
 **January 2025 - Present** | **Role: Backend Developer**
 
-Created a web-based training management system application built with React.js + Vite for MineBeaMitsumi Cebu for an employer to employee training modules, utilizing Firebase Authentication for auth management and Firestore as a database.
+Created a web-based training management system application built with React.js + Vite for MineBeaMitsumi Cebu for an employer to employee training modules, utilizing Firebase Authentication for auth management and Firestore as a database. Alongside with an FAQ chatbot to provide automated responses based on MiManu’s FAQs. Also, implemented a matching algorithm to assess employee skills and recommend appropriate courses.
+
+### CVO Pet Care
+[Live Project](https://cvoapp.vercel.app/) | [Web Repository](https://github.com/soliken1/CVO-App) | [Android Repository](https://github.com/ajiwnl/CVO-Android) | [Chatbot FAQ Repository](https://github.com/ajiwnl/CVO-Chatbot)
+|
+**January 2025 - February 2025** | **Role: Backend Developer**
+
+Created a web and mobile application for Mandaue City Veterinary's Office built with React.js + Vite for the web, integrated with Android Studio WebView, and powered by Firebase Authentication and Firestore to streamline veterinary services, enhance accessibility, and information dissemination. Developed an FAQ chatbot to provide automated responses based on Mandaue City Veterinary’s Office FAQs and Republic Act 9482 (Anti-Rabies Act of 2007).
 
 ### Freelance Computer Building, Repairs, and Troubleshooting
 **2019 - Present**  
@@ -40,33 +40,13 @@ Provide freelance services for building, repairing, and troubleshooting desktop 
 
 Developed a comprehensive expense tracking system with a focus on financial planning for small teams. The project includes data visualization using Chart.js and provides real-time insights into personal and team expenditures.
 
-### Help-Konnect Web Application
-[Live Project](https://helpkonnect.vercel.app) | [GitHub Repository](https://github.com/soliken1/HelpKonnect-WebRepo)
+### Help-Konnect (Capstone Project)
+[Live Project](https://helpkonnect.vercel.app) | [Web Repository](https://github.com/soliken1/HelpKonnect-WebRepo) | [Android Repository](https://github.com/ajiwnl/HelpKonnect-Android) | [Emotion Classifier Repository](https://github.com/ajiwnl/Help-Konnect_emotion-classifier) | [Recommender Repository](https://github.com/soliken1/HelpKonnect-Recommender)
 
-**August 2024 - December 2024** | **Role: Backend Developer**
+**August 2024 - December 2024** | **Role: Backend Developer and Android Developer**
 
-A platform designed to connect individuals seeking help with a network of resources and professionals, utilizing the NextJS, Firebase, React, TailwindCSS, JavaScript tech stack for seamless interactions between the web application and backend APIs.
+Contributed to building a web and mobile platform that connect individuals seeking help with a network of resources and mental health professionals. The web application, developed using Next.js, Firebase, React, TailwindCSS, and JavaScript, ensures seamless interaction between users and backend APIs. Additionally, developed the mobile extension using Java, integrating Firebase for real-time data syncing and authentication. To enhance the platform’s capabilities, also implemented an Emotion Classifier API using a BERT-based model (bert-base-go-emotion) to categorize text into 28 emotion classes. Also, developed a custom recommendation model, fine-tuned with proprietary data using GPT-4o-mini-2024-07-18, which is hosted on Vercel for real-time responses. My role in this project showcased my expertise in backend development, API integrations, and AI-powered solutions.
 
-### Help-Konnect Mobile Application  
-[GitHub Repository](https://github.com/ajiwnl/HelpKonnect-Android)
-
-**August 2024 - December 2024** | **Role: Backend Developer**  
-
-The mobile extension of Help-Konnect, built using Java and integrated with Firebase for real-time data syncing and authentication. This app focuses on creating a smooth user experience while providing essential resources.
-
-### Help-Konnect Mobile Emotion Classifier
-[GitHub Repository](https://github.com/ajiwnl/Help-Konnect_emotion-classifier)
-
-**August 2024 - December 2024** | **Role: Backend Developer**  
-
-An Emotion Classifier API utilizing BERT-based hugging face model specifically the `bert-base-go-emotion` model from Hugging Face's Transformers library to classify text into 28 different emotion categories. It provides an endpoint to predict the emotions conveyed in a given text input.
-
-### Help-Konnect Recommender
-[GitHub Repository](https://github.com/soliken1/HelpKonnect-Recommender)
-
-**August 2024 - December 2024** | **Role: Backend Developer**  
-
-Help-Konnect own model that is being finetuned with our own dataset for users to handle response properly also the base model used is gpt-4o-mini-2024-07-18 which is being hosted on vercel to access its endpoint.
 
 ### CIB.O Cebu Interschool Hackathon (MERN Stack)
 
