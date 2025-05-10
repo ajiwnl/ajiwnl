@@ -22,7 +22,7 @@ A student intern, who is responsible for ensuring software quality and system re
 ### MiManuTMS
 [Live Project](https://mimanu-react.vercel.app/) | [GitHub Repository](https://github.com/soliken1/Mimanu-React)
 
-**January 2025 - Present** | **Role: Backend Developer**
+**January 2025 - May 2025** | **Role: Backend Developer**
 
 Created a web-based training management system application built with React.js + Vite for MineBeaMitsumi Cebu for an employer to employee training modules, utilizing Firebase Authentication for auth management and Firestore as a database. Alongside with an FAQ chatbot to provide automated responses based on MiManu’s FAQs. Also, implemented a matching algorithm to assess employee skills and recommend appropriate courses.
 
