@@ -4,9 +4,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aljohnaraneta@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aljohnaraneta) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ajiwnl)
 
 
-## Summary
-A college graduate student of Information Technology student passionate about programming and solving problems. I am proficient in multiple programming languages, a quick learner with a great academic background, and I enjoy a challenge, particularly in programming. I am eager to employ my coding expertise and commitment to real-world projects and to contribute to a dynamic team.
-
 ## Experiences
 
 ### QA Engineer | Talleco JobTarget
