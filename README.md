@@ -9,79 +9,174 @@ A college undergraduate student of Information Technology student passionate abo
 
 ## Experiences
 
-### Freelance Computer Building, Repairs, and Troubleshooting
-**2019 - Present**  
+### QA Engineer | Talleco JobTarget
+**May 2025 - Present**  
 
-Provide freelance services for building, repairing, and troubleshooting desktop computers, showcasing technical expertise in hardware servicing.
+•	Conducted manual testing to ensure software quality and system reliability.
 
-### QA Egineer Intern @ Talleco.com Inc.
-**January 2025 - Present**
+•	Executed functional, regression, and exploratory testing to identify defects. 
 
-A student intern, who is responsible for ensuring software quality and system reliability through manual testing. Execute test cases, perform functional, regression, and exploratory testing, and meticulously document and report bugs using tracking tools. Working closely with developers and product team, helping refine system performance by verifying bug fixes and ensuring that software updates meet quality standards before deployment. Additionally, contributed to the creation of test plans and test case documentation, gaining hands-on experience in software testing methodologies, defect tracking, and quality assurance best practices.
+•	Documented and tracked bugs using Jira, ensuring clear reporting and resolution.
 
-### MiManuTMS
+•	 Collaborated with developers and the product team to verify bug fixes and improvements. 
+
+•	Ensured new features met quality standards before deployment. 
+
+•	Created and maintained test plans and test cases using Testmo. 
+
+•	Gained hands-on experience in software testing methodologies, defect tracking, and QA best practices.
+
+•	Performed Android mobile testing using real devices and LambdaTest for emulation. 
+
+•	Conducted data validation from backend to frontend using AWS, MongoDB, Redis, Postman, SSMS, and DynamoDB.
+_____________________________________________________________________________________________________________________
+### QA Engineer Intern | Talleco JobTarget
+**January 2025 - May 2025**
+
+•	Conducted manual testing to ensure software quality and system reliability.
+
+•	Executed functional, regression, and exploratory testing to identify defects. 
+
+•	Documented and tracked bugs using Jira, ensuring clear reporting and resolution.
+
+•	 Collaborated with developers and the product team to verify bug fixes and improvements. 
+
+•	Ensured new features met quality standards before deployment. 
+
+•	Created and maintained test plans and test cases using Testmo. 
+
+•	Gained hands-on experience in software testing methodologies, defect tracking, and QA best practices.
+
+•	Performed Android mobile testing using real devices and LambdaTest for emulation. 
+
+•	Conducted data validation from backend to frontend using AWS, MongoDB, Redis, Postman, SSMS, and DynamoDB.
+_____________________________________________________________________________________________________________________
+### Freelance Project (MiManuTMS)
 [Live Project](https://mimanu-react.vercel.app/) | [GitHub Repository](https://github.com/soliken1/Mimanu-React)
 
 **January 2025 - May 2025** | **Role: Backend Developer**
 
-Created a web-based training management system application built with React.js + Vite for MineBeaMitsumi Cebu for an employer to employee training modules, utilizing Firebase Authentication for auth management and Firestore as a database. Alongside with an FAQ chatbot to provide automated responses based on MiManu’s FAQs. Also, implemented a matching algorithm to assess employee skills and recommend appropriate courses.
+•	Developed a web-based training management system for MineBeaMitsumi Cebu.
 
-### CVO Pet Care
+•	Built with React.js + Vite to facilitate employer-to-employee training modules.
+
+•	Integrated Firebase Authentication for secure user access. 
+
+•	Utilized Firestore for real-time database management.
+
+•	Developed an FAQ chatbot to provide automated responses based on MiManu’s FAQs.
+
+•	 Implemented a matching algorithm to assess employee skills and recommend appropriate courses
+_____________________________________________________________________________________________________________________
+### Freelance Project (CVO Pet Care)
 [Live Project](https://cvoapp.vercel.app/) | [Web Repository](https://github.com/soliken1/CVO-App) | [Android Repository](https://github.com/ajiwnl/CVO-Android) | [Chatbot FAQ Repository](https://github.com/ajiwnl/CVO-Chatbot)
 
 **January 2025 - February 2025** | **Role: Backend Developer**
 
-Created a web and mobile application for Mandaue City Veterinary's Office built with React.js + Vite for the web, integrated with Android Studio WebView, and powered by Firebase Authentication and Firestore to streamline veterinary services, enhance accessibility, and information dissemination. Developed an FAQ chatbot to provide automated responses based on Mandaue City Veterinary’s Office FAQs and Republic Act 9482 (Anti-Rabies Act of 2007).
+•	Developed a web and mobile application for the Mandaue City Veterinary's Office. 
 
-### Alliance Jumpstart Expense Tracker 
+•	Built the web app with React.js + Vite and integrated it into Android Studio WebView. 
+
+•	Implemented Firebase Authentication and Firestore for secure user management and data storage.
+
+•	Enhanced veterinary service accessibility and information dissemination.
+
+•	Developed an FAQ chatbot to provide automated responses based on Mandaue City Veterinary’s Office FAQs and Republic Act 9482 (Anti-Rabies Act of 2007).
+_____________________________________________________________________________________________________________________
+### Freelance Computer Building, Repairs, and Troubleshooting
+[Live Project](https://cvoapp.vercel.app/) | [Web Repository](https://github.com/soliken1/CVO-App) | [Android Repository](https://github.com/ajiwnl/CVO-Android) | [Chatbot FAQ Repository](https://github.com/ajiwnl/CVO-Chatbot)
+
+**2019 - December 2024** | **Role: Computer Technician**
+
+•	Provide freelance services for building, repairing, and troubleshooting desktop computers. 
+
+•	Demonstrate technical expertise in hardware servicing and diagnostics. 
+
+•	Assist clients with hardware upgrades, system optimizations, and custom PC builds.
+_____________________________________________________________________________________________________________________
+### Alliance Jumpstart Program 2024
 [GitHub Repository](https://github.com/Laucs/ASIJumpStart2024-Group1) | [Automation Test Repository](https://github.com/ajiwnl/ASIJumpStart2024-Group1_RbtSelenium-AutomationTesting)
 
-**August 2024 - December 2024** | **Role: Backend Developer**
+**August 2024 - December 2024** | **Role: Tech Lead, Backend Developer, QA Tester**
 
-Developed a comprehensive expense tracking system with a focus on financial planning for small teams. The project includes data visualization using Chart.js and provides real-time insights into personal and team expenditures.
+•	Led the development of a web-based financial management application. 
 
-### Help-Konnect (Capstone Project)
+•	Implemented income tracking, expense monitoring, and detailed financial reports. 
+
+•	Built using C# ASP.NET with SQL Server for robust data handling. 
+
+•	Ensured code quality, functionality, and security through extensive QA testing.
+_____________________________________________________________________________________________________________________
+### Capstone Project (Help-Konnect)
 [Live Project](https://helpkonnect.vercel.app) | [Web Repository](https://github.com/soliken1/HelpKonnect-WebRepo) | [Android Repository](https://github.com/ajiwnl/HelpKonnect-Android) | [Emotion Classifier Repository](https://github.com/ajiwnl/Help-Konnect_emotion-classifier) | [Recommender Repository](https://github.com/soliken1/HelpKonnect-Recommender)
 
 **August 2024 - December 2024** | **Role: Backend Developer and Android Developer**
 
-Contributed to building a web and mobile platform that connect individuals seeking help with a network of resources and mental health professionals. The web application, developed using Next.js, Firebase, React, TailwindCSS, and JavaScript, ensures seamless interaction between users and backend APIs. Additionally, developed the mobile extension using Java, integrating Firebase for real-time data syncing and authentication. To enhance the platform’s capabilities, also implemented an Emotion Classifier API using a BERT-based model (bert-base-go-emotion) to categorize text into 28 emotion classes. Also, developed a custom recommendation model, fine-tuned with proprietary data using GPT-4o-mini-2024-07-18, which is hosted on Vercel for real-time responses. My role in this project showcased my expertise in backend development, API integrations, and AI-powered solutions.
+•	Developed a web and mobile platform designed to connect individuals with resources and professionals. 
 
+•	Built the web application using Next.js, Firebase, React, TailwindCSS, and JavaScript for seamless interaction with backend APIs. 
 
-### CIB.O Cebu Interschool Hackathon (MERN Stack)
+•	Created the mobile extension using Java, integrating Firebase for real-time data syncing and authentication. 
+
+•	Developed an Emotion Classifier API using a BERT-based model (bert-base-go-emotion) to classify text into 28 emotion categories. 
+
+•	Implemented a custom recommendation model, fine-tuned with proprietary data using GPT-4o-mini-2024-07-18, hosted on Vercel for real-time responses.
+_____________________________________________________________________________________________________________________
+### CIB.O Cebu Interschool Hackathon
 
 **June 2024** | **Role: Backend Developer**
 
-Created a web-based application for education that utilizes AI for Generating Quizzes and Lessons based on students learning capacity using MERN Stack, showcasing proficiency in backend development.
+•	Developed an AI-powered educational platform for quiz and lesson generation utilizing OpenAI. 
 
+•	Built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). 
+
+•	Implemented AI-driven learning adaptability based on student capabilities. 
+
+•	Showcased strong backend development and AI integration skills.
+_____________________________________________________________________________________________________________________
 ### PSITS-UCB Web-Based POS System
 [GitHub Repository-Backend](https://github.com/PSITS-UCBanilad/PSITS-WebBackend) | [GitHub Repository-Frontend](https://github.com/PSITS-UCBanilad/PSITS-WebFrontend)
 
 **May 2024 - June 2024** | **Role: Backend Developer**
 
-Contributed in building the PSITS-UCB POS System and Website for College of Computer Studies Students and Officers using MERN Stack, showcasing proficiency in backend development.
+•	Contributed to the backend development of the PSITS-UCB POS System and website for College of Computer Studies students and officers. 
 
+•	Built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). 
+
+•	Implemented secure transaction handling and database management. Collaborated with frontend developers to ensure seamless system integration.
+_____________________________________________________________________________________________________________________
 ### University of Cebu ICT Congress Intercampus Hackathon
 
 **April 2024** | **Role: Project Manager**
 
-Created an online web-based job search website using C# ASP .NET with SQL Server Management Studio, showcasing proficiency in project leadership.
+•	Led a team in developing a web-based job search platform.
 
+•	Utilized C# ASP.NET for backend development and SQL Server for database management.
+
+•	Coordinated project tasks, ensuring timely delivery and efficient collaboration.
+
+•	Showcased strong leadership, problem-solving, and full-stack development skills.
+_____________________________________________________________________________________________________________________
 ### University of Cebu-Banilad CCS Days 2024 UI/UX Design Contest
 
 **March 2024** | **Role: UI/UX Designer**
 
-Participated in a UI/UX Design Competition in the University of Cebu-Banilad CCS Days 2024 event held in March. Designed a user-friendly interface that secured 2nd place in the competition.
+•	Designed a user-friendly interface for the competition.
 
-### Trabahub
+•	Secured 2nd place in the University of Cebu-Banilad CCS Days 2024 event.
+
+•	Applied UX principles to enhance usability and accessibility.
+_____________________________________________________________________________________________________________________
+### Freelance Project (Trabahub)
 [Live Project](http://trabahub.somee.com/) | [GitHub Repository](https://github.com/ajiwnl/Trabahub)
 
 **January 2024 - June 2024** | **Role: Backend Developer**
 
-Developed a comprehensive a web-based online reservation system called Trabahub using C# ASP .NET with SQL Server 
-Management Studio, also utilizing Payment Gateway APIs specifically Stripes and PayMongo, showcasing proficiency in backend development and project leadership.
+•	Developed a web-based workspace online reservation system using C# ASP.NET and SQL Server.
 
+•	Integrated Stripe and PayMongo payment gateways for secure transactions.
 
+•	Optimized backend processes to improve system performance and reliability.
 
 ## Technical Skills
 **Languages & Frameworks**  
