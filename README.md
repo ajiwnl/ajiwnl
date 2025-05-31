@@ -5,7 +5,7 @@
 
 
 ## Summary
-A college undergraduate student of Information Technology student passionate about programming and solving problems. I am proficient in multiple programming languages, a quick learner with a great academic background, and I enjoy a challenge, particularly in programming. I am eager to employ my coding expertise and commitment to real-world projects and to contribute to a dynamic team.
+A college graduate student of Information Technology student passionate about programming and solving problems. I am proficient in multiple programming languages, a quick learner with a great academic background, and I enjoy a challenge, particularly in programming. I am eager to employ my coding expertise and commitment to real-world projects and to contribute to a dynamic team.
 
 ## Experiences
 
