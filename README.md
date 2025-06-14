@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aljohnaraneta@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aljohnaraneta) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ajiwnl)
 
 
-# Experience
+### Experience
 
 ## QA Engineer | Talleco JobTarget  
 **May 2025 – Present**  
