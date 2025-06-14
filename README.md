@@ -177,22 +177,37 @@ ________________________________________________________________________________
 
 ## Technical Skills
 **Languages & Frameworks**  
-- **C#, .NET** – Expertise in backend solutions and enterprise-level applications.  
-- **Java, Kotlin** – Mobile development with Android SDK, creating robust and scalable apps.  
-- **JavaScript, Node.js, React, MERN Stack** – Full-stack web development with a focus on efficient and interactive user experiences.  
-- **Python** – Machine learning and AI model development, particularly in natural language processing and data analysis.
+- **C#, ASP.NET Core, .NET MVC** – Expertise in backend development and scalable enterprise-grade APIs. 
+- **Java, Kotlin** – Android app development using Android SDK. 
+- **JavaScript, TypeScript** – Modern frontend and backend development. 
+- **React.js, Next.js, MERN Stack (MongoDB, Express, React, Node.js)** – Full-stack web development with responsive, dynamic UI. 
+- **Python** – Used for test automation (Robot Framework, Selenium) and AI/NLP with Hugging Face.
+
+**Frontend Development**
+- **Tailwind CSS, CSS3, HTML5** – Rapid and responsive UI design.
+- **Figma** – UI/UX prototyping and design collaboration.
+
+**Databases**
+- **Relational** – SQL Server (SSMS), PostgreSQL, MySQL.
+- **NoSQL** – MongoDB, Redis, Firebase Firestore/Realtime DB, DynamoDB.
+
+**Cloud, DevOps & Deployment**
+- **Cloud Services** – AWS, Google Cloud, Azure for scalable backend and storage solutions.
+- **Monitoring & Logging** – AWS CloudWatch, Datadog.
+- **CI/CD & Infrastructure** – Docker, Nginx, GitHub Actions.
+- **Deployment Platforms** – Vercel, Render, Somee, Firebase Hosting, Azure App Services.
 
 **Tools & Platforms**
-- **SQL Databases** - Proficient in designing, querying, and managing relational databases using SQL Server Management Studio (SSMS), SQLite, and MySQL.
-- **Firebase** – Authentication, Firestore, and Realtime Database integration for mobile and web.  
-- **Cloud Platforms** – AWS, Google Cloud, and Azure for scalable deployment.  
-- **Version Control** – Git, GitHub for source control and team collaboration.  
-- **DevOps** – Docker, Nginx, and CI/CD pipelines.
-- **Computer Systems Servicing** – Hardware and Software troubleshooting, repair, and maintenance
-- **Proficieny in Microsoft Applications** - Word, Excel, PowerPoint, Publisher, etc.
-- **Proficiency in Video Editing** - particularly in utilizing Adobe Creative Suite – Adobe Premiere and Filmora
-- **Photo Editing Adobe Creative Suite** – particularly in utilizing Adobe Photoshop and Canva
+- **Version Control** – Git, GitHub, SourceTree.
+- **API Testing** – Postman, Insomnia.
 
+**Design & Media Tools**
+- **Adobe Creative Suite** – Photoshop, Premiere Pro, Illustrator, Lightroom ;
+- **Canva** – Graphic and visual content design.
+
+**Additional Skills**
+- **Computer Systems Servicing** – Hardware/software troubleshooting, repair, and maintenance.
+- **Microsoft Office Suite** – Proficient in Word, Excel, PowerPoint, Publisher.
 
 ## Education
 **Bachelor of Science in Information Technology**  
