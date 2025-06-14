@@ -23,14 +23,14 @@
 [Live Project](https://mimanu-react.vercel.app/) | [GitHub Repository](https://github.com/soliken1/Mimanu-React)  
 - Developed a training management system for MinebeaMitsumi Cebu using React.js + Vite and Firebase stack.  
 - Built and secured user access via Firebase Authentication and Firestore for real-time data management.  
-- Implemented a custom FAQ chatbot and matching algorithm to improve training efficiency and personalization.
+- Implemented a custom FAQ chatbot and matching algorithm to improve training efficiency and personalization using Python.
 
 ## Freelance Backend Developer | CVO Pet Care  
 **January 2025 – February 2025**  
 [Live Project](https://cvoapp.vercel.app/) | [Web Repository](https://github.com/soliken1/CVO-App) | [Android Repository](https://github.com/ajiwnl/CVO-Android) | [Chatbot FAQ Repository](https://github.com/ajiwnl/CVO-Chatbot)  
 - Created a responsive veterinary services web and mobile application for the Mandaue City Veterinary Office.  
 - Utilized React.js, Firebase, and Android Studio to integrate authentication and information systems.  
-- Built an automated chatbot referencing FAQs and RA 9482 to increase user engagement and awareness.
+- Built an automated chatbot referencing FAQs and RA 9482 to increase user engagement and awareness using Python and custom GPT-4o-mini.
 
 ## Freelance Computer Technician  
 **2019 – December 2024**  
