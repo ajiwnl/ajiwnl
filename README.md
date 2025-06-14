@@ -18,14 +18,14 @@
 - Created and maintained test documentation using Testmo, while reporting issues via Jira for resolution tracking.  
 - Conducted Android mobile testing with real devices and LambdaTest emulation, validating features and compatibility.
 
-## Freelance Backend Developer | MiManuTMS  
+## Freelance Developer | MiManuTMS  
 **January 2025 – May 2025**  
 [Live Project](https://mimanu-react.vercel.app/) | [GitHub Repository](https://github.com/soliken1/Mimanu-React)  
 - Developed a training management system for MinebeaMitsumi Cebu using React.js + Vite and Firebase stack.  
 - Built and secured user access via Firebase Authentication and Firestore for real-time data management.  
 - Implemented a custom FAQ chatbot and matching algorithm to improve training efficiency and personalization using Python.
 
-## Freelance Backend Developer | CVO Pet Care  
+## Freelance Developer | CVO Pet Care  
 **January 2025 – February 2025**  
 [Live Project](https://cvoapp.vercel.app/) | [Web Repository](https://github.com/soliken1/CVO-App) | [Android Repository](https://github.com/ajiwnl/CVO-Android) | [Chatbot FAQ Repository](https://github.com/ajiwnl/CVO-Chatbot)  
 - Created a responsive veterinary services web and mobile application for the Mandaue City Veterinary Office.  
@@ -77,13 +77,12 @@
 - Won 2nd place among university participants, showcasing creativity and attention to detail.  
 - Applied wireframing and prototyping to bring visual ideas to interactive designs.
 
-## Backend Developer | Trabahub (Freelance Project)  
+## Freelance Developer | Trabahub
 **January 2024 – June 2024**  
 [Live Project](http://trabahub.somee.com/) | [GitHub Repository](https://github.com/ajiwnl/Trabahub)  
 - Built a workspace reservation system using C# ASP.NET with SQL Server and integrated payment gateways.  
 - Ensured secure, reliable payment handling via Stripe and PayMongo APIs.  
 - Optimized backend performance and scalability for enhanced user experience.
-
 
 ## Technical Skills
 **Languages & Frameworks**  
