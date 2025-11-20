@@ -8,15 +8,17 @@
 
 ## QA Engineer | Talleco JobTarget  
 **May 2025 – Present**  
-- Perform manual and exploratory testing of software applications, validating functionality and user experience across platforms including Android and web.  
-- Utilize Jira and Testmo to manage bug tracking, test cases, and detailed documentation for quality assurance workflows.  
-- Conduct backend-to-frontend data validation using AWS, MongoDB, Redis, SSMS, Postman, and DynamoDB to ensure data integrity.
+- Reviewed and analyzed requirements, specifications, and technical designs, providing clear and timely feedback to ensure alignment with project expectations.  
+- Developed test plans, test cases, and testing strategies by collaborating with developers and stakeholders; assisted in identifying, debugging, and documenting defects throughout the SDLC.
+- Executed API, database, and web application testing to validate functionality, reliability, and performance across system components.
+- Demonstrated a strong testing mindset, maintaining organized documentation and consistently promoting software quality and attention to detail within the team.
 
 ## QA Engineer Intern | Talleco JobTarget  
 **January 2025 – May 2025**  
-- Supported the QA team by performing regression, functional, and exploratory testing to ensure software stability.  
-- Created and maintained test documentation using Testmo, while reporting issues via Jira for resolution tracking.  
-- Conducted Android mobile testing with real devices and LambdaTest emulation, validating features and compatibility.
+- Assisted the QA team by performing functional, regression, and exploratory testing to support overall product quality and stability.
+- Supported test planning and documentation, helping create and maintain test cases, test plans, and organized reports for team use.
+- Helped execute API, database, and web application testing, identifying defects and collaborating with developers to verify fixes and improvements.
+- Participated in requirement reviews and daily development activities, providing feedback, raising concerns, and reinforcing a quality-first mindset within the team.
 
 ## Backend Developer | Hybrid P2B Lending Platform System
 **June 2025 – November 2025**  
