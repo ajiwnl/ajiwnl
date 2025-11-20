@@ -18,6 +18,13 @@
 - Created and maintained test documentation using Testmo, while reporting issues via Jira for resolution tracking.  
 - Conducted Android mobile testing with real devices and LambdaTest emulation, validating features and compatibility.
 
+## Backend Developer | Hybrid P2B Lending Platform System
+**June 2025 – November 2025**  
+[Swagger UI](http://kuwagoapi.somee.com/swagger) 
+- Designed and developed the backend services for a web-based Hybrid P2B lending platform, using C# ASP.NET Core Web API, implementing scalable RESTful APIs, secure authentication flows, and modular service architecture.  
+- Integrated multiple third-party services and cloud tools, including Firebase Auth, Firestore, Cloudinary, PayMongo, and EmailJS, enabling secure user management, real-time data storage, media handling, payment processing, and automated notifications.
+- Built robust API documentation and development workflows using Swagger UI, enforced backend security best practices, optimized API performance, and collaborated closely with the frontend developers and clients to deliver a reliable, production-ready fintech backend system.
+
 ## Freelance Developer | MiManuTMS  
 **January 2025 – May 2025**  
 [Live Project](https://mimanu-react.vercel.app/) | [GitHub Repository](https://github.com/soliken1/Mimanu-React)  
