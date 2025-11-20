@@ -27,71 +27,73 @@
 - Integrated multiple third-party services and cloud tools, including Firebase Auth, Firestore, Cloudinary, PayMongo, and EmailJS, enabling secure user management, real-time data storage, media handling, payment processing, and automated notifications.
 - Built robust API documentation and development workflows using Swagger UI, enforced backend security best practices, optimized API performance, and collaborated closely with the frontend developers and clients to deliver a reliable, production-ready fintech backend system.
 
-## Freelance Developer | MiManuTMS  
+## Software Developer | Training Management System  
 **January 2025 – May 2025**  
 [Live Project](https://mimanu-react.vercel.app/) | [GitHub Repository](https://github.com/soliken1/Mimanu-React)  
-- Developed a training management system for MinebeaMitsumi Cebu using React.js + Vite and Firebase stack.  
-- Built and secured user access via Firebase Authentication and Firestore for real-time data management.  
-- Implemented a custom FAQ chatbot and matching algorithm to improve training efficiency and personalization using Python.
+- Developed a full training management system for MinebeaMitsumi Cebu using React.js + Vite, implementing modular UI components, responsive layouts, and optimized client-side performance.
+- Designed and secured user access workflows by integrating Firebase Authentication and role-based permissions, leveraging Cloud Firestore for real-time, scalable data storage and automated sync across users.
+- Created a custom FAQ chatbot and intelligent matching algorithm using Python, enabling automated training recommendations, improved query handling, and enhanced personalization for employees.
+- Collaborated with the clients to gather requirements, refine features, and ensure alignment with training workflows, while maintaining clean code practices, version control (Git/GitHub), and continuous project updates.
 
-## Freelance Developer | CVO Pet Care  
+## Software Developer | Veterinary Services Information and Assistance System
 **January 2025 – February 2025**  
 [Live Project](https://cvoapp.vercel.app/) | [Web Repository](https://github.com/soliken1/CVO-App) | [Android Repository](https://github.com/ajiwnl/CVO-Android) | [Chatbot FAQ Repository](https://github.com/ajiwnl/CVO-Chatbot)  
-- Created a responsive veterinary services web and mobile application for the Mandaue City Veterinary Office.  
-- Utilized React.js, Firebase, and Android Studio to integrate authentication and information systems.  
-- Built an automated chatbot referencing FAQs and RA 9482 to increase user engagement and awareness using Python and custom GPT-4o-mini.
+- Developed a responsive web and mobile application for the Mandaue City Veterinary Office, enabling users to access veterinary services, pet care information, and office announcements. 
+- Integrated user authentication, real-time data storage, and content management using React.js, Firebase, and Android Studio, ensuring a seamless multi-platform user experience.  
+- Built an automated FAQ chatbot powered by Python and a custom GPT-4o-mini model, referencing RA 9482 and official guidelines to improve citizen awareness, user engagement, and informational support.
 
 ## Freelance Computer Technician  
 **2019 – December 2024**  
-- Offered PC building, troubleshooting, and hardware maintenance services to various freelance clients.  
-- Delivered system upgrades, optimizations, and custom builds tailored to specific user needs.  
-- Diagnosed technical issues with precision, ensuring efficient and cost-effective solutions.
+- Provided PC building, diagnostics, and hardware maintenance services for a diverse range of freelance clients, ensuring reliable and high-performance systems.
+- Delivered custom system upgrades, component installations, and performance optimizations tailored to individual user requirements, including gaming, productivity, and workstation setups. 
+- Identified and resolved hardware and software issues, offering cost-effective solutions and clear technical guidance to improve system stability and user satisfaction.
 
 ## Tech Lead, Backend Developer, QA Tester | Alliance Jumpstart Program 2024  
 **August 2024 – December 2024**  
 [GitHub Repository](https://github.com/Laucs/ASIJumpStart2024-Group1) | [Automation Test Repository](https://github.com/ajiwnl/ASIJumpStart2024-Group1_RbtSelenium-AutomationTesting)  
-- Led a team in developing a financial management web app using C# ASP.NET and SQL Server.  
-- Oversaw backend design, income/expense tracking features, and detailed financial reporting modules.  
-- Executed rigorous QA testing to validate performance, security, and usability across modules.
+- Led a cross-functional student team in building a financial management web application using C# ASP.NET and SQL Server, overseeing system architecture, task delegation, and technical decision-making.
+- Designed and implemented backend features, including income/expense tracking, CRUD workflows, category management, and comprehensive financial reporting modules.
+- Conducted extensive QA testing, performing functional, regression, and UI tests to ensure stability, security, and usability across all major modules.
+- Developed Selenium-based automation scripts to streamline repetitive test cases and enhance coverage, improving overall testing efficiency and reliability.
 
-## Backend & Android Developer | Help-Konnect (Capstone Project)  
+## Backend & Android Developer | Capstone Project
 **August 2024 – December 2024**  
 [Live Project](https://helpkonnect.vercel.app) | [Web Repository](https://github.com/soliken1/HelpKonnect-WebRepo) | [Android Repository](https://github.com/ajiwnl/HelpKonnect-Android) | [Emotion Classifier](https://github.com/ajiwnl/Help-Konnect_emotion-classifier) | [Recommender](https://github.com/soliken1/HelpKonnect-Recommender)  
-- Developed a platform to connect individuals with services using Next.js, Firebase, and Android (Java).  
-- Integrated a BERT-based emotion classifier API and custom GPT-4o-mini recommender for real-time support.  
-- Coordinated web and mobile app design for seamless cross-platform experience.
+- Developed a cross-platform service-connection platform using Next.js, Firebase, and Android (Java), enabling real-time matching between users and service providers.
+- Integrated a BERT-based emotion analysis API and a custom GPT-4o-mini recommender system, enhancing personalized support and user engagement.
+- Coordinated backend, web, and mobile development, ensuring consistent UI/UX, seamless data flow, and synchronized feature delivery across platforms.
 
 ## Backend Developer | CIB.O Cebu Interschool Hackathon  
 **June 2024**  
-- Created an AI-powered educational app using the MERN stack to personalize quizzes and lessons.  
-- Integrated OpenAI to adapt learning material to individual student capabilities.  
-- Demonstrated strong backend design and innovation under competition constraints.
+- Built an AI-powered educational application using the MERN stack, delivering personalized quizzes and adaptive lessons based on learner performance.
+- Integrated OpenAI to dynamically adjust content and difficulty according to individual student learning curves.
+- Delivered functional prototypes under strict time constraints, showcasing strong backend logic, teamwork, and innovation.
 
-## Backend Developer | PSITS-UCB Web-Based POS System  
+## Backend Developer | Web-Based POS System  
 **May 2024 – June 2024**  
 [Backend](https://github.com/PSITS-UCBanilad/PSITS-WebBackend) | [Frontend](https://github.com/PSITS-UCBanilad/PSITS-WebFrontend)  
-- Contributed to backend development using the MERN stack for student financial transactions.  
-- Implemented secure database handling and ensured cohesive API design with frontend collaborators.  
-- Streamlined data flow between modules, enhancing performance and reliability.
+- Contributed to backend development for a web-based POS system using the MERN stack, supporting student financial transactions and organizational operations.
+- Implemented secure database operations, API endpoints, and validation to ensure data integrity and smooth interactions with the frontend.
+- Streamlined backend module communication, improving system reliability, performance, and maintainability.
 
 ## Project Manager | UC ICT Congress Intercampus Hackathon  
 **April 2024**  
-- Managed a team that built a job search web platform using C# ASP.NET and SQL Server.  
-- Coordinated task delegation, timelines, and cross-functional development to meet project goals.  
-- Displayed leadership, planning, and backend development proficiency under competitive conditions.
+- Led a team in developing a C# ASP.NET + SQL Server job search platform, overseeing timelines, task assignments, and system architecture decisions.
+- Coordinated cross-functional development efforts to ensure feature completion and project coherence under competition time pressure.
+- Demonstrated strong leadership, planning, and backend development skills while ensuring delivery of a functional platform.
 
 ## UI/UX Designer | UC-Banilad CCS Days UI/UX Design Contest  
 **March 2024**  
-- Designed a user-friendly interface based on usability principles and accessibility best practices.  
-- Won 2nd place among university participants, showcasing creativity and attention to detail.  
-- Applied wireframing and prototyping to bring visual ideas to interactive designs.
+- Designed an intuitive, user-friendly interface following usability heuristics and accessibility principles.
+- Achieved 2nd place among university participants, highlighting strong visual design and problem-solving skills.
+- Created wireframes, prototypes, and interaction flows to transform concepts into polished user experiences.
 
-## Freelance Developer | Trabahub
+## Software Developer | Booking & Reservation System
 **January 2024 – June 2024**  
 [Live Project](http://trabahub.somee.com/) | [GitHub Repository](https://github.com/ajiwnl/Trabahub)  
-- Built a workspace reservation system using C# ASP.NET with SQL Server and integrated payment gateways.  
-- Ensured secure, reliable payment handling via Stripe and PayMongo APIs.  
-- Optimized backend performance and scalability for enhanced user experience.
+- Developed a workspace reservation and booking system using C# ASP.NET and SQL Server, enabling users to reserve desks, rooms, and facilities.
+- Integrated Stripe and PayMongo APIs to provide secure, reliable payment processing and automated transaction handling.
+- Optimized backend logic, improving response times, data handling, and scalability for improved user experience.
 
 ## Technical Skills
 **Languages & Frameworks**  
